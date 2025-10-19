@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: Amelia Williams
+- Place: United States
+- Bio: Student
+- Github: https://github.com/c7b3rp1nk
